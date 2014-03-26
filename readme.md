@@ -30,9 +30,9 @@ Ils sont configures ensembles et reliees l'un a l'autre.
 pour une application web par exemple on obtient les fichires:
 - stylesheet.css
 - javascript.js
-_ index.html
+- index.html
 
-la partie <head> de "index" contient la configuration, les liens, et la descrition des fichiers "stylesheet" et "javascript".
+la partie "head" de "index" contient la configuration, les liens, et la descrition des fichiers "stylesheet" et "javascript".
 
 il nous reste a implementer/ecrire notre code dans les fichires telecharges sur notre disque
 
